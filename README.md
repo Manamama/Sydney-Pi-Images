@@ -1,4 +1,4 @@
-# Sydney-Pi-Images: Sydney Client with Image Support
+# Sydney-Py-Images: Sydney Client with Image Support
 
 This project is a Python script that uses the Sydney Client to interact with OpenAI's Sydney API. It supports sending image prompts by uploading local files or providing URLs. 
 
