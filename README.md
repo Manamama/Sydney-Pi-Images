@@ -26,8 +26,15 @@ Enter a text prompt to send to Sydney. For example:
 `User: Tell me a joke.`
 
 If you want to send an image prompt, start your input with !image, followed by the URL or local file path of the image, and then the text prompt. For example:
+```
 User: !image https://example.com/image.jpg What animal is this?
+```
+or:
+![Screenshot from 2024-01-23 14-57-30](https://github.com/Manamama/Sydney-Pi-Images/assets/78492008/583c5617-5903-4be0-a79f-6eb1d0ed4caf)
+
 
 If you don’t provide a URL after !image, the script will show a file picker dialog for you to select a local file.
 
 The script will display Sydney’s response in the terminal with Markdown formatting.
+![Screenshot from 2024-01-23 14-56-52](https://github.com/Manamama/Sydney-Pi-Images/assets/78492008/90f8a0f2-a48a-4168-a1f5-7d7255a200b1)
+    
