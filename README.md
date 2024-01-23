@@ -12,7 +12,7 @@ This project is a Python script that uses the Sydney Client to interact with Ope
 
 - Python 3.7 or higher
 - `rich` library for rendering Markdown in the terminal
-- `sydney-py` library [https://github.com/vsakkas/sydney.py] for interacting with the Sydney aka Bing's API
+- [`sydney-py` library](https://github.com/vsakkas/sydney.py) for interacting with the Sydney aka Bing's API
 - `tkinter` library for showing a file picker dialog
 
 ## Usage
