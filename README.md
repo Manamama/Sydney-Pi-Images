@@ -16,11 +16,11 @@ This project is a Python script that uses the Sydney Client to interact with Ope
 - `tkinter` library for showing a file picker dialog
 
 ## Usage
-0. Git clone this repository and go to the folder.
-1. Run the script in your terminal:
+1. Git clone this repository and go to the folder.
+2. Run the script in your terminal:
 
 ```bash
-python chatsydney_image.py
+python chatsydney_full.py
 ```
 Enter a text prompt to send to Sydney. For example:
 `User: Tell me a joke.`
@@ -38,3 +38,7 @@ If you don’t provide a URL after !image, the script will show a file picker di
 The script will display Sydney’s response in the terminal with Markdown formatting.
 ![Screenshot from 2024-01-23 14-56-52](https://github.com/Manamama/Sydney-Pi-Images/assets/78492008/90f8a0f2-a48a-4168-a1f5-7d7255a200b1)
     
+Other commands:
+```!context``` (works much as the !image above)
+```!reset```
+```!exit```
