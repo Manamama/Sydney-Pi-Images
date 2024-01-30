@@ -16,11 +16,11 @@ This project is a Python script that uses the Sydney Client to interact with Ope
 - `tkinter` library for showing a file picker dialog
 
 ## Usage
-
+0. Git clone this repository and go to the folder.
 1. Run the script in your terminal:
 
 ```bash
-python main.py
+python chatsydney_image.py
 ```
 Enter a text prompt to send to Sydney. For example:
 `User: Tell me a joke.`
